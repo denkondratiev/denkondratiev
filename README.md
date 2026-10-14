@@ -1,16 +1,14 @@
-## Hi there 👋
+# Denys Kondratiev
 
-<!--
-**denkondratiev/denkondratiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer — front-end focused, full-stack capable.
+7 years in web development, the last 4 on a B2B document-workflow
+SaaS: React / TypeScript on a large production codebase, Node.js
+BFF, PHP / Laravel services, production releases.
 
-Here are some ideas to get you started:
+I work AI-native: spec-driven development, agent skills for code
+review and epic decomposition, test-first delivery with Playwright.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work lives in private repositories — public projects
+will appear here as I open them up.
+
+[LinkedIn](https://www.linkedin.com/in/den-kondratiev) · Vinnytsia, Ukraine
