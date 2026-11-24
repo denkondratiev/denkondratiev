@@ -8,7 +8,6 @@ BFF, PHP / Laravel services, production releases.
 I work AI-native: spec-driven development, agent skills for code
 review and epic decomposition, test-first delivery with Playwright.
 
-Most of my work lives in private repositories — public projects
-will appear here as I open them up.
+Pet projects live in private repositories
 
 [LinkedIn](https://www.linkedin.com/in/den-kondratiev) · Vinnytsia, Ukraine
